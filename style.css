@@ -1,6 +1,6 @@
 body{
     background-color: rgb(255, 255, 255);
-
+font-size: x-large;
 }
 
 img{
@@ -13,5 +13,12 @@ h1, h2{
 }
 
 h1, h2{
-    color: #da1818;
+    color: #da1818;}
+
+
+footer{
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    text-align: center;
 }
+nav
