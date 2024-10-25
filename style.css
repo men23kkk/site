@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(252, 1, 1);
 font-size: x-large;
 }
 
@@ -13,7 +13,7 @@ h1, h2{
 }
 
 h1, h2{
-    color: #da1818;}
+    color: #ffffff;}
 
 
 footer{
@@ -21,4 +21,9 @@ footer{
     color: #ffffff;
     text-align: center;
 }
-nav
+button{
+    background-color: black
+    co
+
+    
+}
